@@ -1,0 +1,29 @@
+.box{
+    height: 300px;
+    width:500px;
+    background-color: black;
+    border:5px solid black;
+    border-radius: 25px;
+    margin-top:15%;
+    margin-right: 13%;
+}
+.button{
+    
+    margin:auto;
+    margin-top:-40px;
+    
+}
+button.input{
+    margin-left: 20px;;
+}
+p{
+    color:white
+}
+body{
+    background-image: url(guess.jpg);
+    background-size: cover;
+   
+}
+#es{
+    color: yellow;
+}
